@@ -54,4 +54,12 @@ public class ServicioDocumentoImplTest {
 
 	}
 	
-}
+//	@Test
+//	public void deberiaAlmacenarDocumento() {
+//		when(this.repositorioDocumento.getSiguienteId()).thenReturn(22);
+//		final Documento resultado = this.servicioDocumento.altaDocumento(documento);
+//		
+		
+	}
+	
+
